@@ -1,2 +1,2 @@
-# Desafio-poo-dio-
-# desafio-poo-dio
+# Desafio-poo-dio
+- Testando os conhecimentos em Java, utilizando POO
